@@ -1,3 +1,1 @@
-# health-check
-Script that check the health of my computers
-Try  it
+I am editing the README file. Adding some more details about the project description.
